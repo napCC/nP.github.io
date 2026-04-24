@@ -66,7 +66,7 @@
    *IMWUT / ACM UbiComp*, 2025
 
 8. **Timestep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**
-   Shaobin Zhuang, Yiwei Guo, Yanbo Ding, Kunchang Li, **Xinyuan Chen**, Yaohui Wang, Fangyikang Wang, Yixiao Zhang, Chunhua Li, et al.
+   Shaobin Zhuang, Yiwei Guo, Yanbo Ding, Kunchang Li, **Xinyuan Chen**, Yaohui Wang†, Fangyikang Wang, Ying Zhang, Chen Li, Yali Wang†
    *ICML 2025*
    [[Paper](https://arxiv.org/abs/2503.07416)]
 
