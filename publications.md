@@ -1,8 +1,6 @@
 # Publications
 
-\* indicates equal contribution. Full list available on [Google Scholar](https://scholar.google.com/citations?user=3fWSC8YAAAAJ).
-
-**Citation Stats** (as of 2026/04): Total Citations: 5316 | h-index: 24 | i10-index: 37
+\* indicates equal contribution. Full list available on [Google Scholar](https://scholar.google.com/citations?user=3fWSC8YAAAAJ). **Citation Stats** (as of 2026/04): Total Citations: 5316 | h-index: 24 | i10-index: 37
 
 ---
 
